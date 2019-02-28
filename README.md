@@ -9,14 +9,14 @@ New update every week!
 Here the list of all the programs:
 
 |    Name            |Description 
-|----------------|-------------------------------|-----------------------------|
+|----------------|---------------------------------
 |Fibonacci Series|`Calculate the series to the nth-number`            |'Isn't this fun?'            |
 |IsPrime         |`Return is a number is prime or not`               |"Isn't this fun?"            |
-|Factori          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Factorial          |`Calculate the factorial of a number`
 
-## Create files and folders
+## Contacts
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+For any kind of questions open an issue and I'll answer as soon as I can!
 
 ## Switch to another file
 
@@ -149,5 +149,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTcyOTY1Nl19
+eyJoaXN0b3J5IjpbLTEyMDMxMzA3NTNdfQ==
 -->
