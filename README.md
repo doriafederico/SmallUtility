@@ -6,7 +6,13 @@ New update every week!
 
 # Index
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+Here the list of all the programs:
+
+|                |Descri                         |HTML                         |
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 ## Create files and folders
 
@@ -143,5 +149,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjAzMjU5Nl19
+eyJoaXN0b3J5IjpbLTg4Njg4OTA1MV19
 -->
