@@ -1,9 +1,10 @@
 # Welcome to SmallUtility
 
-Hi! Welcome to SmallUtility. Here you can find a collection of JAVA programs (written with NetBeans) 
+Hi! Welcome to SmallUtility. Here you can find a collection of open-source Java programs (written with NetBeans) that allows you to resolve a lot of mathematical problems. 
+New update every week!
 
 
-# Files
+# Index
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -142,5 +143,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzkwNzQ5Ml19
+eyJoaXN0b3J5IjpbMTI4NjAzMjU5Nl19
 -->
