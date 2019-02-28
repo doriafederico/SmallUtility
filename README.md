@@ -11,8 +11,8 @@ Here the list of all the programs:
 |    Name            |Description 
 |----------------|-------------------------------|-----------------------------|
 |Fibonacci Series|`Calculate the series to the nth-number`            |'Isn't this fun?'            |
-|IsPrime         |`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|IsPrime         |`Return is a number is prime or not`               |"Isn't this fun?"            |
+|Factori          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 ## Create files and folders
 
@@ -149,5 +149,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMwNTMxOTFdfQ==
+eyJoaXN0b3J5IjpbMTY2OTcyOTY1Nl19
 -->
