@@ -1,12 +1,13 @@
 # SmallUtility 1.00
 
-Here you can find the first version of the library.
+Here you can find this version of the library.
 
 
 # What includes
 - FibonacciSeries (int n) : ArrayList of Integer
-- IsPrime (int n) : B
+- IsPrime (int n) : Boolean
+- Factorial (int n) : Int 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTYwMTUxMV19
+eyJoaXN0b3J5IjpbLTQ2ODEyMTk5N119
 -->
